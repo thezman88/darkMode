@@ -23,10 +23,10 @@ body{
     color: #be79df;
 }
 .middle-section{
-    background-color: red;
+    background-color: green;
     grid-column: 2/4;
-   
- 
+
+
 
 }
 
@@ -34,4 +34,3 @@ body{
     background-color: blue;
     grid-column: 1/4;
 }
-
