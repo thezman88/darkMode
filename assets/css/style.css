@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #121212;
+}
+.container{
+    display: grid;
+    gap: 10px;
+    margin: 30px;
+    height: 700px;
+    /* background-color:aliceblue; */
+}
+.top-section{
+    background-color: #242424;
+    grid-column: 1/4;
+    grid-row: 1/2;
+    display: flex;
+    /* justify-content: flex-end; */
+    padding-right: 30%;
+    color: #be79df;
+}
+.middle-section{
+    background-color: red;
+    grid-column: 2/4;
+   
+ 
+
+}
+
+.bottom-section{
+    background-color: blue;
+    grid-column: 1/4;
+}
+
